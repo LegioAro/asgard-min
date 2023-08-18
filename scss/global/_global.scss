@@ -7,6 +7,11 @@ body {
   &.lock {
     overflow: hidden;
   }
+
+  &.--light {
+    background-color: #fff;
+    color: #121010;
+  }
 }
 
 .container {
